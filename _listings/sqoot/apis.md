@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/sqoot/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Sqoot
-  x-api-slug: sqoot
-  description: We power local deals in the things you use (web, mobile, desktop, etc).
-    We help developers make money & advertisers gain distribution.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/942-sqoot.jpg
-  humanURL: https://www.sqoot.com/
-  baseURL: https:///
-  tags: Aggregator
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/sqoot/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.sqoot.com

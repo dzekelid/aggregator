@@ -11,20 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/datasift/apis.md
 specificationVersion: "0.14"
-apis:
-- name: DataSift
-  x-api-slug: datasift
-  description: Getting Started with the DataSift Platform is easy. Discover all the
-    things every developer needs to know. Jump right into the REST API or Streaming
-    API documentation. Explore DataSifts programming language and look at all the
-    data you can include in your DataSift streams.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/177-datasift-developer.jpg
-  humanURL: http://dev.datasift.com
-  baseURL: https:///
-  tags: Aggregator
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/datasift/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://dev.datasift.com/blog

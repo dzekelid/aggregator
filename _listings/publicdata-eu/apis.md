@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/publicdata-eu/apis.md
 specificationVersion: "0.14"
-apis:
-- name: PublicData.eu
-  x-api-slug: publicdata-eu
-  description: Europes public data.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/905-publicdata-eu.jpg
-  humanURL: http://publicdata.eu/
-  baseURL: https:///
-  tags: Aggregator
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/publicdata-eu/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://publicdata.eu/
