@@ -1,0 +1,109 @@
+{
+	"name": "Streadata.io API Gallery - Aggregator",
+	"description": "This is a repository of aggregator APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aggregator.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://aggregator.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "DataSift",
+			"x-api-slug": "datasift",
+			"description": "DataSift is the leader in Human Data Intelligence. The only independent provider of social data, blog data and news data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/177-datasift-developer.jpg",
+			"humanURL": "http://dev.datasift.com",
+			"baseURL": "https:///",
+			"tags": "Aggregator",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/datasift/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PublicData.eu",
+			"x-api-slug": "publicdata-eu",
+			"description": "Europes public data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/905-publicdata-eu.jpg",
+			"humanURL": "http://publicdata.eu/",
+			"baseURL": "https:///",
+			"tags": "Aggregator",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/publicdata-eu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sqoot",
+			"x-api-slug": "sqoot",
+			"description": "We power local deals in the things you use (web, mobile, desktop, etc). We help developers make money & advertisers gain distribution.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/942-sqoot.jpg",
+			"humanURL": "https://www.sqoot.com/",
+			"baseURL": "https:///",
+			"tags": "Aggregator",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/sqoot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sidebuy",
+			"x-api-slug": "sidebuy",
+			"description": "Sidebuy is a data-driven influencer marketing platform that matches brands with relevant influencers who create original branded content and amplify its outreach through their engaged audiences. Sidebuy intelligently tracks, measures and reports the pe...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1150-sidebuy.jpg",
+			"humanURL": "http://sidebuy.com/api",
+			"baseURL": "https:///",
+			"tags": "Aggregator",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/sidebuy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TOTEMS",
+			"x-api-slug": "totems",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1177-totems.jpg",
+			"humanURL": "http://teleportd.com/",
+			"baseURL": "https:///",
+			"tags": "Aggregator",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/totems/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Aggregator",
+	"include": [
+		{
+			"name": "DataSift",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/datasift/apis.yaml"
+		},
+		{
+			"name": "PublicData.eu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/publicdata-eu/apis.yaml"
+		},
+		{
+			"name": "Sqoot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/sqoot/apis.yaml"
+		},
+		{
+			"name": "Sidebuy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/sidebuy/apis.yaml"
+		},
+		{
+			"name": "TOTEMS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/aggregator/master/_listings/totems/apis.yaml"
+		}
+	]
+}
